@@ -7,5 +7,6 @@ for (var i = 1; i < 11; i++) {
 		   riga = riga + j*i + ",\t";
 	       }
 	   }
+
    console.log(riga);
 }
